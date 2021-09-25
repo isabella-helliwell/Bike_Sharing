@@ -75,11 +75,13 @@
 # 5. Summary
     From the above graphs, we can conclude the following:
         * Majority of bike users are Male
+        * The top bike users are subscribers
         * Preferred weekday to use a bike is Thursdays
         * Most trip durations are less than 60min
         * Most popular times to use a bike is between 7-9am and 4-7pm
         * The least used time for bikes is between 12-5am
-        *There are more bike users in the more central areas of NY, than the suburbs
+        * There are more bike users in the more central areas of NY, than the suburbs
+        * Peek time to use bike is 6pm for all gender categories
         
 
 # 6. Additional Analysis
