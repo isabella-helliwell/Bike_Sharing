@@ -45,6 +45,8 @@
  ![image](https://user-images.githubusercontent.com/85843030/134776599-1ac9a311-4680-4cc2-8408-d82865c793e8.png)
 
 
-    If we create a box and whisker plot, 
+    Plotting a Box and whisker graph, we can see that the graph should be positiv skewed, i.e skewed to the right. We can also calculate this
+    by using the Quartiles and Median values. (see graph)
+    We can also see that the value that occurs most often is 5 min trips, which means that the average trip is much more than 5 min.
 
    
