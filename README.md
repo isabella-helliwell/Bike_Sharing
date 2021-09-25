@@ -6,8 +6,7 @@
 # 2. Resources
     - Tableau Public Application Software
     - Jupyter Notebook
-    - Pandas DataFrame
-    - Python
+    - Python, Pandas DataFrame
     - Files Citi Bike trip data: 201908-citibike-tripdata.csv.zip
     - Files created citibike_data.csv, NYC_CitiBike_Challenge.ipynb
     
