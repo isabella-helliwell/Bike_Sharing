@@ -23,7 +23,7 @@
 
 ## 3.1 Gender Analysis  
     Gender is divided into 3 categories: 0=unknown, 1=Male, and 2= Female. Shown below is a graph representing the gender division vs bike trips. 
-    The graph shows the first 3 hours of trip duration. It can be seen that the majority of trips last less than 1 hour, with a peak of around 4-15 minutes.
+    The graph shows the first 3 hours of trip duration. It can be seen that the majority of trips last less than 1 hour, with a peak of around 4-8 minutes.
     We can also see that the majority of bike users are Males topping with 108087 trips compared to Females 34151, and unknown gender 7389 trips.
 ![image](https://user-images.githubusercontent.com/85843030/134773361-215f2c9c-f063-41d9-a0bb-fd6fb8bda0cc.png)
 
