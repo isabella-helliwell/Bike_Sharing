@@ -59,7 +59,9 @@
     From the Graph, we can see that most bike rentals occur between the hours of 7-9am and 4-7pm, which coinsides with comuting to and from work.
 ![image](https://user-images.githubusercontent.com/85843030/134780671-8c3550f8-8ab6-4e39-8b0d-0cc78fbfd0ff.png)
 
-   
+    We can also see from Graph below that the most popular time for bike trip is Thursdays and 5-6pm.
+ ![image](https://user-images.githubusercontent.com/85843030/134780855-a405b386-c19c-414e-a1d0-c1a93a13d55f.png)
+
     
     
 
