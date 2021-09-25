@@ -55,7 +55,7 @@
     Overview of the bike rentals vs hours is shown in Graph below:
 ![image](https://user-images.githubusercontent.com/85843030/134780740-26469122-980d-4bf5-b6aa-951a66b34b03.png)
 
-    
+  
     From the Graph, we can see that most bike rentals occur between the hours of 7-9am and 4-7pm, which coinsides with comuting to and from work.
 ![image](https://user-images.githubusercontent.com/85843030/134780671-8c3550f8-8ab6-4e39-8b0d-0cc78fbfd0ff.png)
 
