@@ -24,9 +24,10 @@
     
     For this analysis, Jupyter Notebook was used to create a dataframe for the 201908-citibike-tripdata.csv, and to convert the tripduration column to a
     datetime datatype.
-    This dataframe was exported as a new csv file, without the index and saved as "citibike_data.csv".
+    This dataframe was exported as a new csv file, without the index and saved as "citibike_data.csv". This data is used for the analysis.
 
-## 3.1 Gender Analysis  
+# 3. Results
+## 3.1 Gender 
     Gender is divided into 3 categories: 0=unknown, 1=Male, and 2= Female. Shown below is a graph representing the gender division vs bike trips. 
     The graph shows the first 3 hours of trip duration. It can be seen that the majority of trips last less than 1 hour, with a peak of around 4-8 minutes.
     We can also see that the majority of bike users are Males topping with 108087 trips compared to Females 34151, and unknown gender 7389 trips.
@@ -45,7 +46,7 @@
 ![output3](https://user-images.githubusercontent.com/85843030/134774442-3f260d90-0e13-44db-b103-356744e53c70.png)
    
    
-## 3.2 Trip Duration Analysis
+## 3.2 Trip Duration
     Looking at the Graph representing the Trips vs the Tripduration, we can see that the majority of the trips occur within one hour. 
  ![image](https://user-images.githubusercontent.com/85843030/134776599-1ac9a311-4680-4cc2-8408-d82865c793e8.png)
 
@@ -56,7 +57,7 @@
 ![image](https://user-images.githubusercontent.com/85843030/134780261-c837714d-4010-4f2e-aafe-b0e5b5372960.png)
 
 
-## 3.3 Bike Trip Analysis
+## 3.3 Bike Trip
     Looking at the starting location for the bike hires below in Graph, we can see that the central areas are where most of the bike rentals happen.
 ![image](https://user-images.githubusercontent.com/85843030/134781640-2ddcd845-67df-4244-ac90-9e382a904482.png)
 
@@ -71,7 +72,7 @@
     We can also see from Graph below that the most popular time for bike trip is Thursdays and 5-6pm.
  ![image](https://user-images.githubusercontent.com/85843030/134780855-a405b386-c19c-414e-a1d0-c1a93a13d55f.png)
 
-## 3.4 Bike Trip Analysis with age
+## 3.4 Bike Trip vs Age 
     Additional analysis have been carried out to see find a trend between age groups and trips taken. Firstly we look at the age data vs trips by birth year.
     Graph below shows that the majority of the bike users are born in 1969, which when the data was gathered (2019) would make these groups 50 years old.
     The next 2 age groups that use bikes are born 1989, and 1990, which would make them 29-30 years old. Looking further at the data, we can see that the 
