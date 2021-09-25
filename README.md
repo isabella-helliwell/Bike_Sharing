@@ -40,3 +40,11 @@
 ![output3](https://user-images.githubusercontent.com/85843030/134774442-3f260d90-0e13-44db-b103-356744e53c70.png)
    
    
+## 3.2 Trip Duration Analysis
+    Looking at the Graph representing the Trips vs the Tripduration, we can see that the majority of the trips occu within one hour. 
+ ![image](https://user-images.githubusercontent.com/85843030/134776599-1ac9a311-4680-4cc2-8408-d82865c793e8.png)
+
+
+
+
+   
