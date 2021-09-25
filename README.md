@@ -73,8 +73,12 @@
     graph is skewed to the left, which indicates that the younger users are using the bikes more than the older generation, with exception of 16-20 year olds.
 ![image](https://user-images.githubusercontent.com/85843030/134781102-b28615ce-4694-4023-9826-266181f63588.png)
     
+    
     Looking at the gender proportion of the bike users, we can see from the Graph below, that the majority of the 50 year old users are of 'unknown' gender. 
-    Furthermore, lokking at the next higher user age groups, we can see that the portion of male users aremore than double than the female users.
+    Furthermore, lokking at the next higher user age groups, we can see that the portion of male users aremore than double than the female users, in fact
+    this trend is valid for all age groups.
+![image](https://user-images.githubusercontent.com/85843030/134781741-50835685-bcb2-4944-bb66-539815dd4583.png)
+    
     
 
    
