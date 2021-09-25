@@ -41,7 +41,7 @@
    
    
 ## 3.2 Trip Duration Analysis
-    Looking at the Graph representing the Trips vs the Tripduration, we can see that the majority of the trips occu within one hour. 
+    Looking at the Graph representing the Trips vs the Tripduration, we can see that the majority of the trips occur within one hour. 
  ![image](https://user-images.githubusercontent.com/85843030/134776599-1ac9a311-4680-4cc2-8408-d82865c793e8.png)
 
 
@@ -52,6 +52,10 @@
 
 
 ## 3.3 Bike Trip Analysis
+    Looking at the starting location for the bike hires below in Graph, we can see that the central areas are where most of the bike rentals happen.
+![image](https://user-images.githubusercontent.com/85843030/134781640-2ddcd845-67df-4244-ac90-9e382a904482.png)
+
+
     Overview of the bike rentals vs hours is shown in Graph below:
 ![image](https://user-images.githubusercontent.com/85843030/134780740-26469122-980d-4bf5-b6aa-951a66b34b03.png)
 
@@ -69,6 +73,8 @@
     graph is skewed to the left, which indicates that the younger users are using the bikes more than the older generation, with exception of 16-20 year olds.
 ![image](https://user-images.githubusercontent.com/85843030/134781102-b28615ce-4694-4023-9826-266181f63588.png)
     
+    Looking at the gender proportion of the bike users, we can see from the Graph below, that the majority of the 50 year old users are of 'unknown' gender. 
+    Furthermore, lokking at the next higher user age groups, we can see that the portion of male users aremore than double than the female users.
     
 
    
