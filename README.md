@@ -72,7 +72,18 @@
     We can also see from Graph below that the most popular time for bike trip is Thursdays and 5-6pm.
  ![image](https://user-images.githubusercontent.com/85843030/134780855-a405b386-c19c-414e-a1d0-c1a93a13d55f.png)
 
-## 3.4 Bike Trip vs Age 
+# 4. Summary
+    From the above graphs, we can conclude the following:
+        * Majority of bike users are Male
+        * Preferred weekday to use a bike is Thursdays
+        * Most trip durations are less than 60min
+        * Most popular times to use a bike is between 7-9am and 4-7pm
+        * The least used time for bikes is between 12-5am
+        *There are more bike users in the more central areas of NY, than the suburbs
+        
+
+# 5. Additional Analysis
+## 5.1 Bike Trip vs Age 
     Additional analysis have been carried out to see find a trend between age groups and trips taken. Firstly we look at the age data vs trips by birth year.
     Graph below shows that the majority of the bike users are born in 1969, which when the data was gathered (2019) would make these groups 50 years old.
     The next 2 age groups that use bikes are born 1989, and 1990, which would make them 29-30 years old. Looking further at the data, we can see that the 
