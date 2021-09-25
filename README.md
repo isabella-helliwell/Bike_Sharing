@@ -47,8 +47,15 @@
 
     Plotting a Box and whisker graph, we can see that the graph should be positiv skewed, i.e skewed to the right. We can also calculate this
     by using the Quartiles and Median values. (see graph)
-    We can also see that the value that occurs most often is 5 min trips, which means that the average trip is much more than 5 min.
+    We can also see that the value that occurs most often is 5 min trips.
 ![image](https://user-images.githubusercontent.com/85843030/134780261-c837714d-4010-4f2e-aafe-b0e5b5372960.png)
+
+
+## 3.3 Bike Trip Analysis
+    From Graph below, we can see that most bike rentals occur between the hours of 7-9am and 4-7pm, which coinsides with comuting to and from work.
+![image](https://user-images.githubusercontent.com/85843030/134780671-8c3550f8-8ab6-4e39-8b0d-0cc78fbfd0ff.png)
+
+   
     
     
 
