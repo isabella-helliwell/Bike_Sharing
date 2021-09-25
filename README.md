@@ -1,7 +1,8 @@
-# 
-
-
-
+# 1. CitiBike Trip Analysis
+    The purpose of this project is to carry out analysis using the CitiBike data for August month to understand trends and to use data 
+    visualization tool Tableau to create a story of the analysis.
+    The story and analysis can be found in https://public.tableau.com/app/profile/isabella.helliwell
+    
 # 2. Resources
     - Tableau Public Application Software
     - Jupyter Notebook
