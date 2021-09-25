@@ -8,6 +8,7 @@
     - Pandas DataFrame
     - Python
     - Files Citi Bike trip data: 201908-citibike-tripdata.csv.zip
+    - Files created citibike_data.csv, NYC_CitiBike_Challenge.ipynb
     
 # 3. Analysis
     The citibike trip histories for August month consists of the following information:
@@ -20,6 +21,10 @@
     - Station Lat/Long
     - User Type
     - Gender/ Year of Birth
+    
+    For this analysis, Jupyter Notebook was used to create a dataframe for the 201908-citibike-tripdata.csv, and to convert the tripduration column to a
+    datetime datatype.
+    This dataframe was exported as a new csv file, without the index and saved as "citibike_data.csv".
 
 ## 3.1 Gender Analysis  
     Gender is divided into 3 categories: 0=unknown, 1=Male, and 2= Female. Shown below is a graph representing the gender division vs bike trips. 
